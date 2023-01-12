@@ -236,6 +236,7 @@ void time_limit( history * ptr_front )                                       // 
     show_history(ptr_front);
     printf("\n\t\tYou exceed the time(%f seconds) of this game.", time_limitation);
     printf("\n\t\tYou spent %f seconds.", (finish-start)/(double)(CLOCKS_PER_SEC));
+    printf("\n\t\tYOU LOSE!!!!");
     play_again();
 }
 
