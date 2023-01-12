@@ -16,10 +16,10 @@ Start to play the game! <br />
 Enter the col and row number until you win or lose(including if you hit the mine or exceed the time) the game. <br />
 <br />
 
-If you win
+If you win <br />
 Output: the history of the number(col & row) you enter and the total time you spent. <br />
 
-If you lose
+If you lose <br />
 Output: the field of the mines, the history of the number(col & row) you enter, and the total time you spent. <br />
 <br />
 
