@@ -1,1 +1,14 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9711212&assignment_repo_type=AssignmentRepo)
+# Minesweeper
+
+## Usage
+```sh
+# Compile
+cd D:\\文件\\大四上\\資料結構\\Minesweeper\\final_project\\src
+gcc -o -o main main.c minesweeper.c printfield.c history.c 
+# Run
+./main
+```
+
+Please wait for my README.md and report.
+
+<br />
